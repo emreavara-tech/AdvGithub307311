@@ -21,5 +21,7 @@ public class MyClass {
 
         //techproda degisiklik3
         System.out.println("techpro");
+
+        //github degisiklik
     }
 }
