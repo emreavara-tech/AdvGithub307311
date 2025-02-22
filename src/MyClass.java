@@ -18,5 +18,8 @@ public class MyClass {
         System.out.println("yeni branch");
 
         //dev icinde degisiklik
+
+        //techproda degisiklik3
+        System.out.println("techpro");
     }
 }
