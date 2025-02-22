@@ -7,5 +7,8 @@ public class MyClass {
 
         //Degisiklik 2
         System.out.println("Adv github dersine hosgeldiniz");
+
+        //Degisiklik 3
+        System.out.println("bu derste branchler islenecek.");
     }
 }
